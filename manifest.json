@@ -1,0 +1,18 @@
+{
+  "name": "SGM Factory Inspection",
+  "short_name": "SGM Inspect",
+  "description": "SGM Window Manufacturing Ltd \u2014 Factory and Office Inspection v1.3",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f3f1",
+  "theme_color": "#2e7d32",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
